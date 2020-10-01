@@ -1,0 +1,5 @@
+/target/
+/build/
+/test-output/
+/.idea/
+*.iml
